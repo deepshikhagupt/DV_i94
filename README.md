@@ -1,4 +1,4 @@
-# Finding Indicators of Traffic Volume using matplotlib EDA
+# Finding Indicators of Traffic Volume using matplotlib 
 
 
 * I'm going to analyze the westbound traffic on the I-94 Interstate highway. It is an east–west Interstate Highway connecting the Great Lakes and northern Great Plains regions of the United States.
