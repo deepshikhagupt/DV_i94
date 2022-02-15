@@ -2,12 +2,6 @@
 
 
 * I'm going to analyze the westbound traffic on the I-94 Interstate highway. It is an east–west Interstate Highway connecting the Great Lakes and northern Great Plains regions of the United States.
-<div>
-<img src="attachment:osm-tegola,a,a,a,290x240@2x.png" width="300"/>
-</div>
-
-
-
 
 * John Hogue made the dataset available, and you can download it from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume).
 
